@@ -1,0 +1,5 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"PCB","PCB",5,2.10,"","JLCPCB"
+"MOLEX 206994-0100","Antenna for connectivity",1,2.38,"https://www.tme.eu/pl/details/2069940100/anteny-wifi-bluetooth/molex/206994-0100/","TME"
+"ESP32-WROVER-E-N16R8","MCU module",1,6.40,"https://www.tme.eu/pl/details/esp32-wrover-e-16/moduly-iot-wifi-bluetooth/espressif/esp32-wrover-e-n16r8/","TME"
+"SHOU HAN TYPE-C 16PIN 2MD(073)","USB-C power port",1,0.00,"https://www.lcsc.com/product-detail/C2765186.html?s_z=n_C2765186","LCSC"
