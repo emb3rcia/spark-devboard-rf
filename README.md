@@ -23,7 +23,7 @@ Pin functions are written on back of the PCB. Alternate functions can be found i
 
 ## Usage
 
-You use it as any other developement board. Important caviats are programming and powering the board.
+You use it as any other developement board. Important caveats are programming and powering the board.
 
 ### Programming
 
